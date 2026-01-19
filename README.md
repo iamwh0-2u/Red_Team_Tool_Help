@@ -11,10 +11,16 @@ To install all the tools I am talking about do this:
 sudo apt update && sudo apt install nmap nuclei wfuzz netexec -y
 ```
 
-```nmap.sh``` has some commands helpful for running scans. The last example in the script file is the one you can use to enumerate the entire system. Install nmap on kali, if not already there, with 
+```nmap.sh``` has some commands helpful for running scans. The last example in the script file is the one you can use to enumerate the entire system.
 
 
-```nuclei.sh``` has some commands helpful for scanning systems and is a great open source tool. One of my favorites
+```nuclei.sh``` has some commands helpful for scanning systems and is a great open source tool. One of my favorite tools.
+
+wfuzz is a enumeratino/web directory/brute force tool that has many use cases
+
+netexec has many functions and can be used with all sorts of systems
+
+
 
 
 

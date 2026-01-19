@@ -1,6 +1,6 @@
 # Red Team Tools Help
 
-For help pentesting and other red team tactics checkout, has awesome informattion - https://book.hacktricks.wiki/en/index.html
+For help pentesting and other red team tactics checkout, has awesome information - https://book.hacktricks.wiki/en/index.html
 
 Using Kali Linux is great for installing tools but it can be easier to spot kali machines on the network. If possible use another linux distro or to blend in even more try these tools on windows. More videos on youtube will come soon for help on this
 
